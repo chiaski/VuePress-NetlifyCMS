@@ -21,7 +21,9 @@ module.exports = {
     sidebar: 'auto',
     sidebar: [
       ['/', 'Home'],
-      ['docs/', 'Documents']
+      ['docs/', 'Documents'],
+      ['team-a/', 'Team A'],
+      ['team-b/', 'Team B']
     ],
 
     displayAllHeaders: true, // 默认值：false
